@@ -399,7 +399,7 @@ class _HomeScreenState extends State<HomeScreen>
                                       ),
                                     ),
                                     Text(
-                                      'Ahmad Fauzan',
+                                      'FIRDAUS RAMADHAN RIADI',
                                       style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 18,
